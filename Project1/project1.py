@@ -1,10 +1,3 @@
-#
-#  Assignment 1
-#
-#  Group yz:
-#  Name: Priyadharsshini Sakrapani EmailID: psakrapani@mun.ca StudentID: 202285397
-#  Name: shreya kamath EmailID: shreyak@mun.ca StudentID: 202191327
-#  Name: Neha Thakare EmailID: nvthakare@mun.ca StudentID: 202287127 
 
 import pandas as pd
 import numpy as np 
